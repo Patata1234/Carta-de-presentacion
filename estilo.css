@@ -4,6 +4,7 @@ body{
     background: rgb(182,0,131);
     background: linear-gradient(16deg, rgba(182,0,131,1) 8%, rgba(51,9,121,1) 66%, rgba(125,7,7,1) 100%);
     margin: 0;
+    min-height: 92vh;
 }
 
 article{
